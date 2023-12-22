@@ -1,0 +1,15 @@
+*{
+    background-color: red;
+    background-image: url("https://www.icegif.com/wp-content/uploads/cool-wallpapers-icegif-1.gif");
+    background-repeat: no-repeat;
+    color: yellow;
+}
+
+h1{
+    color: red;
+}
+
+video{
+    height: 500px;
+    width: 800px;
+}

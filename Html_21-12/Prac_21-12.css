@@ -1,0 +1,64 @@
+*{
+    background-color: aqua;
+    /* opacity : 0.1; */
+    background: url("https://static.toiimg.com/thumb/msid-101984407,width-1070,height-580,imgsize-34304,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg") center/cover fixed;
+    /* background-image: url("https://static.toiimg.com/thumb/msid-101984407,width-1070,height-580,imgsize-34304,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"); */
+    /* opacity: 0.5; */
+}
+th{
+    border: 3px solid black;
+}
+
+td{
+    border: 2px solid black;
+    
+}
+div{
+    padding: 3.5px;
+}
+
+table{
+    border: 1.5px solid white;
+    /* row-gap: 4px; */
+    text-align: center;
+    padding: 1.5px;
+}
+
+/*--button--*/
+
+button{
+    color: blue;
+    border: 2px solid black;
+}
+
+button:hover{
+    /* color: red; */
+    border: 2.5px solid ;
+    font-size: medium;
+    border-radius: 12px;
+    box-shadow: 2px 2px;
+}
+
+th:hover{
+    font-weight: bold;
+    font-family: sans-serif;
+    box-shadow: 2px 3px 4px 5px;
+    color: red;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+td:hover{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-weight: bold;
+    /* box-shadow: 2px 3px 4px 5px; */
+}
+
+tr:hover{
+    color: red;
+}
+
+
+
+

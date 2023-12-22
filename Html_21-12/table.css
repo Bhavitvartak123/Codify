@@ -1,0 +1,78 @@
+*{
+    background-color: aqua;
+}
+th{
+    border: 2px solid black;
+    width: 100px;
+}
+td{
+    border: 2px solid green;
+    text-align: center;
+}
+table{
+    border: 2px solid brown;
+    width: 200px;
+}
+
+
+
+/* Paragraph css */
+p{
+    text-align: justify;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+ul li:hover{
+    background-color: red;
+    font-size: 100px;
+
+}
+
+td:hover{
+    background-color: white;
+    border: 2px solid red;
+    font-size: 200px;
+}
+
+
+/* table image*/
+
+.main th{
+    height: 200px;
+    width: 400px;
+    /* background-image: url("https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"); */
+}
+
+
+.main th img:hover{
+    height: 100px;
+    width: 100px;
+    
+
+}
+
+/*orderlist*/
+
+ol li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 200px;
+
+}
+
+@media(max-width:700px) {
+    ol li{
+        margin-left: 70px;
+    }
+
+    p{
+        color: red;
+    }
+    
+}
