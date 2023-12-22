@@ -1,0 +1,70 @@
+*{
+    background-image: url("https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=400");
+}
+
+/* Table_css */
+
+td{
+   color: white;
+   padding: 10px;
+   opacity: 0.7;
+}
+
+img{
+    height: 60px;
+    width: 60px;
+    background: transparent;
+
+}
+
+th{
+    background: transparent;
+}
+li{
+    color: white;
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+    background: transparent;
+}
+
+ol{
+padding-left: 68%;
+}
+
+div{
+    color: white;
+    
+    text-align: center;
+}
+
+h2{
+    font-weight: large;
+    color: yellow;
+}
+
+button{
+    /* background-color: green; */
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: 2px solid white;
+}
+
+button:hover{
+    /* background-color: green; */
+    font-size: 20px;
+    color: red;
+    height: 40px;
+    width: 120px;
+    border: 2px solid white;
+}
+
+li:hover{
+    color: red;
+    list-style: none;
+    text-decoration: underline;
+    display: inline-block;
+    /* background: transparent; */
+    font-size: x-large;
+}

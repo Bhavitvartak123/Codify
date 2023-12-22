@@ -1,0 +1,10 @@
+1)Image ke uper color overwrite nahi kar sakte hai
+
+
+2)ovrflow close on x and y axis
+
+3)If text transperent use Display:transperent;
+
+4)Use spacing between two word "nbsp;"
+
+5)Buttlon link <a><button></button></a>
